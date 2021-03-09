@@ -5,7 +5,7 @@ Rick roll people using this website. It will redirect all users.
 Go to [Bitly](https://bitly.com) or any other link shorteners and shorten `https://rickrollredirect.github.io`.
 
 ## Why is this useful?
-Most link shorteners like [Bitly](https://bitly.com) will display the target website when sent platforms like Discord.
+Most link shorteners like [Bitly](https://bitly.com) will display the target website when sent on platforms like Discord.
 
 ![Link on Discord without Rickroll Redirect](https://i.imgur.com/OwvFTP3.png)
 
